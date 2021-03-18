@@ -1,10 +1,10 @@
-# Online Warehouse
+# E-Warehouse
 
 An Ecommerce site with full functionality, including Frontend and Backend, completed with authentification, authorization, Admin Panel, Sign-up / Sign-in and Paypal payment system. 
 
 This project was built with React, React-Bootstrap, Redux, NodeJs, Express, deployed with Heroku.
 
-Deployed live at https://clone-540e4.web.app
+Deployed live at https://maxly-app-maxshop.herokuapp.com/
 
 ![](SitePreview.jpg)
 
