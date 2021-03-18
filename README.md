@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Online Warehouse
+
+An Ecommerce site with full functionality, including Frontend and Backend, completed with authentification, authorization, Admin Panel, Sign-up / Sign-in and Paypal payment system. 
+
+This project was built with React, React-Bootstrap, Redux, NodeJs, Express, deployed with Heroku.
+
+Deployed live at https://clone-540e4.web.app
+
+![](SitePreview.jpg)
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
