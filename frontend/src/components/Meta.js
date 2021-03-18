@@ -12,7 +12,7 @@ const Meta = ({ title, description, keywords }) => {
 };
 
 Meta.defaultProps = {
-  title: 'Welcome To Max Shop',
+  title: 'Welcome To E-Warehouse',
   description: 'We sell the best products for the most reasonalb price',
   keywords: 'electronics, buy electronics, cheap electroincs',
 };
